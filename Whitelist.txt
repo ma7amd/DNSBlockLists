@@ -1,3 +1,7 @@
 @@||fonts.gstatic.com^$important
-@@||zamba.online^$important
-@@||weworkremotely.com^$important
+@@||zamba.online^$important,document,jsinject,extension
+@@||weworkremotely.com^$important,document,jsinject,extension
+@@||thesoap2day.com^$important,document,jsinject,extension
+@@||eztv^$important,document,jsinject,extension
+@@||yts^$important,document,jsinject,extension
+@@||blog.ma-jinyao.cn^$important,document,jsinject,extension
