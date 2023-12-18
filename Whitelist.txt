@@ -5,3 +5,4 @@
 @@||eztv^$important,document,jsinject,extension
 @@||yts^$important,document,jsinject,extension
 @@||blog.ma-jinyao.cn^$important,document,jsinject,extension
+@@||xiaomi.com^$important,document,jsinject,extension
